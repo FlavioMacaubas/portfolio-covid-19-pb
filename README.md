@@ -1,6 +1,6 @@
 # portfolio-covid-19-pb
 
-Projeto anal├¡tico sobre COVID-19 com foco em dados p├║blicos e visualiza├º├úo.
+Análise de dados da COVID-19 com foco em indicadores para a Paraíba.
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Data%20Engineering%20%2B%20IA-0A66C2?style=flat)
